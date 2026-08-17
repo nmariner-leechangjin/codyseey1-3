@@ -33,18 +33,18 @@ Google Sheets - Add a Row
 → 보완대상 시트에 저장
 
 [캡처 1] Make 전체 워크플로우
-alt text
-![alt text](Make_workflow-2.png)
+
+![alt text](Make_workflow.png)
 [캡처 2] Make 합격자 조건
-alt text![alt text](Make_filter_합격자-2.png)
+![alt text](Make_filter_합격자.png)
 
 [캡처 3] Make 보완대상 조건
-alt text![alt text](Make_filter_보완대상-2.png)
+alt text![alt text](Make_filter_보완대상.png)
 
 [캡처 4] Make 실행 결과 - 합격자
-alt text![alt text](Make_action2_googlesheet_합격자-2.png)
+alt text![alt text](Make_action2_googlesheet_합격자.png)
 
-[캡처 5] Make 실행 결과 -![alt text](Make_action1_googlesheet_보완대상-2.png) 보완대상
+[캡처 5] Make 실행 결과 -![alt text](Make_action1_googlesheet_보완대상.png) 보완대상
 alt text
 3. Zapier 구현
 3-1. 전체 워크플로우
@@ -77,18 +77,18 @@ Google Sheets - Create Spreadsheet Row
 → 보완대상 시트에 저장
 
 [캡처 6] Zapier 전체 워크플로우
-alt text![alt text](Zapier_workflow-2.png)
+alt text![alt text](Zapier_workflow.png)
 
 [캡처 7] Zapier 합격자 조건
-alt text![alt text](Zapier_filter_합격자-2.png)
+alt text![alt text](Zapier_filter_합격자.png)
 
 [캡처 8] Zapier 보완대상 조건
-alt text![alt text](Zapier_filter_보완대상-2.png)
+alt text![alt text](Zapier_filter_보완대상.png)
 
 [캡처 9] Zapier 실행 결과 - 합격자
-alt text alt text![alt text](Zapier_action1_합격자-2.png)
+alt text alt text![alt text](Zapier_action1_합격자.png)
 
-[캡처 10] Zapier 실행 결과 - 보완대상![alt text](Zapier_action2_보완대상-2.png)
+[캡처 10] Zapier 실행 결과 - 보완대상![alt text](Zapier_action2_보완대상.png)
 Google Sheets 보완대상 시트에서 Zapier 실행 결과가 보이는 화면 삽입 alt text alt text
 
 4. Make vs Zapier 비교 분석
