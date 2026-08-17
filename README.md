@@ -51,9 +51,9 @@ Action A     Action B
 제출용 테스트에는 실제 개인정보 대신 가상의 이름과 테스트 데이터를
 사용한다.
 캡처 1 --- Google Forms 입력 화면
-![alt text](고객문의_googleform.png)![alt text](고객문의_googleform-1.png)
-``` md
-![Google Forms 입력 화면](images/01_google_forms.png)
+![alt text](고객문의_googleform.png)
+![alt text](고객문의_googleform-1.png)
+
 ```
 4. Trigger 설계
 서비스: Google Forms
