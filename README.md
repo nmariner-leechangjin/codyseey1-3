@@ -51,7 +51,7 @@ Action A     Action B
 제출용 테스트에는 실제 개인정보 대신 가상의 이름과 테스트 데이터를
 사용한다.
 캡처 1 --- Google Forms 입력 화면
-![alt text](고객문의_googleform-1.png)![alt text](고객문의_googleform-1-1.png)
+![alt text](고객문의_googleform.png)![alt text](고객문의_googleform-1.png)
 ``` md
 ![Google Forms 입력 화면](images/01_google_forms.png)
 ```
@@ -64,7 +64,7 @@ Event: `New Form Response`
 입력: 새로운 Google Forms 응답
 출력: 고객명 / 이메일 / 문의유형 / 긴급도 / 문의내용
 ```
-캡처 2 --- Zapier 전체 Workflow![alt text](고객문의_workflow-1.png)
+캡처 2 --- Zapier 전체 Workflow![alt text](고객문의_workflow.png)
 ``` md
 ![Zapier 전체 Workflow](images/02_zapier_workflow.png)
 ```
